@@ -1,2 +1,5 @@
 # For any make files
 .*
+
+# For debug
+AI/Debug/*
